@@ -1,4 +1,5 @@
 Students Table – React project
+
 📌 Project Overview
 
 This project is a Students Table CRUD application built using React.js.
@@ -32,4 +33,4 @@ Live Application:
 https://students-table-frontend.vercel.app/
 
 GitHub Repository:
-https://github.com/yourusername/students-table
+https://github.com/aswinen-17/Students-table-frontend
